@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322623344352",
+    "firebase_url": "https://deep-37fcc.firebaseio.com",
+    "project_id": "deep-37fcc",
+    "storage_bucket": "deep-37fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322623344352:android:321a8e7078a09a8bc98a85",
+        "android_client_info": {
+          "package_name": "com.example.deep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322623344352-9p5nn1fe478ujn9slolcknm9a4su3bva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deep",
+            "certificate_hash": "dd8ffd9869528c475ed60b58e27823d112453f41"
+          }
+        },
+        {
+          "client_id": "322623344352-6sdigmhm7bp6ctaae3scq12ki5kb900t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBEx8vDsx-oE5A4aclpUpdlQHJ8yMmyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322623344352-6sdigmhm7bp6ctaae3scq12ki5kb900t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
